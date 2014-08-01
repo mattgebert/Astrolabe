@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="com.example.astrolabe.customviews.AstrolabeView">
+        <attr name="rotation" format="float"></attr>
+    </declare-styleable>
+</resources>
